@@ -7,7 +7,7 @@ import { getUnitRequest } from "../../redux/actionTypes/actionTypes"
 import styles from "../../components/filters/filteredunits.module.scss"
 
 
-export default function Unit() {
+const Unit = () => {
   const dispatch = useAppDispatch();
 
 
@@ -72,3 +72,5 @@ export default function Unit() {
   }
 
 }
+
+export default Unit;
