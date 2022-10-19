@@ -5,7 +5,7 @@
     <li>ReactJS
     <li>Typescript
     <li>Redux-Saga
-    <li>SASS<
+    <li>SASS
     <li>Mantine Framework
 <ul>
 
