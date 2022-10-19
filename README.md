@@ -6,6 +6,6 @@
     <li>Typescript
     <li>Redux-Saga
     <li>SASS
-    <li>Mantine Framework
+    <li>Mantine UI
 <ul>
 
