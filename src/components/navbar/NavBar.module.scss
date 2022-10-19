@@ -1,0 +1,25 @@
+.navbar {
+
+    box-sizing: border-box;
+    display: flex;
+    position: absolute;
+    justify-content:space-evenly;
+    min-width: 100%;
+    margin: 0px;
+    padding: 10px;
+    top: 0px;
+    left: 0px;
+    
+    
+    list-style-type: none;
+    column-count: 4;
+    column-gap: 10px;
+
+    background-color: black;
+
+    :hover {
+        color: red;
+        border-style: outset;
+    }
+
+}

@@ -1,2 +1,11 @@
 # Adesso-React-Challange
- Age of Empires Units Website
+
+<h2>Used Techologies<h2>
+<ul>
+    <li>ReactJS<li>
+    <li>Typescript<li>
+    <li>Redux-Saga<li>
+    <li>SASS<li>
+    <li>Mantine Framework<li>
+<ul>
+

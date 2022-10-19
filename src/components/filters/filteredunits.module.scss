@@ -1,0 +1,60 @@
+.filteredunits{
+
+    margin: 20px;
+    padding: 20px;
+
+    width: 600px;
+    height: fit-content;
+    
+    display: block;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+
+    background-color: #a32525;
+    font-weight: 300;
+    
+
+    border: 15px;
+
+    .table{
+        color: black;
+    }
+
+
+}
+
+.units{
+    
+    display: flex;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+
+    background-color: #a32525;
+    color: black;
+    font-weight: 300;
+    
+
+    border: 15px;
+
+
+}
+
+.unitdetails{
+
+    margin: 20px;
+    padding: 20px;
+
+    width: fit-content;
+    height: fit-content;
+    
+    display: block;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+
+    background-color: #a32525;
+    font-weight: 300;
+
+}

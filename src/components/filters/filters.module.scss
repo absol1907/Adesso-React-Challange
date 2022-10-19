@@ -1,0 +1,26 @@
+.filters{
+
+    margin: 20px;
+    padding: 20px;
+
+    width: fit-content;
+    height: fit-content;
+    
+    display: block;
+    position: relative;
+    text-align: center;
+    justify-content: space-around;
+
+    border: 15px;
+
+    background-color: #a32525;
+    font-weight: 300;
+    
+
+    .checkbox{
+        display: block;
+        align-items: center;
+    }
+
+
+}
